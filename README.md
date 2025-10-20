@@ -1,2 +1,2 @@
-# My-first-
-My first repo
+# Halo Dunia!
+Ini commit pertama saya.
